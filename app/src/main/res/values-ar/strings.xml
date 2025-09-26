@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مستودعات سكوير</string>
+    <string name="repositories">المستودعات</string>
+    <string name="bookmarks">الإشارات المرجعية</string>
+    <string name="settings">الإعدادات</string>
+    <string name="stars">النجوم</string>
+    <string name="forks">الفروع</string>
+    <string name="language">اللغة</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="light_mode">الوضع الفاتح</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="check_connection">يرجى التحقق من اتصال الإنترنت</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="description">الوصف</string>
+    <string name="bookmark">إضافة إشارة</string>
+    <string name="bookmarked">تم الإضافة</string>
+    <string name="no_repositories">لا توجد مستودعات</string>
+    <string name="no_bookmarks">لا توجد إشارات مرجعية</string>
+    <string name="search">ابحث في المستودعات...</string>
+    <string name="appearance">مظهر</string>
+    <string name="square_repositories">مستودعات سكوير</string>
+
+    <string name="dark_mode_description">استخدام الوضع الداكن</string>
+    <string name="light_mode_description">استخدام الوضع الفاتح</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="app_information">معلومات التطبيق</string>
+    <string name="version">الإصدار</string>
+    <string name="build_number">رقم البناء</string>
+    <string name="app_description">عرض مستودعات GitHub الخاصة بـ Square</string>
+
+</resources>
